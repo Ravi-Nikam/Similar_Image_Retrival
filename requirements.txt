@@ -1,4 +1,6 @@
 pandas
 numpy
 seaborn
--e .
+matplotlib
+scikit-learn
+#-e . # whenver you try to install the packahe on that time comment the -e .  otherwise it build the package again and again
